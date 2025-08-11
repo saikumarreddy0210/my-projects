@@ -1,0 +1,3 @@
+com\example\generic_api_response\response\ApiResponseTest.class
+com\example\generic_api_response\exception\GlobalExceptionHandlerTest.class
+com\example\generic_api_response\GenericApiResponseApplicationTests.class
